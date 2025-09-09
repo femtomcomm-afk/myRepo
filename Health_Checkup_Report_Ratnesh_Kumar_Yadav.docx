@@ -1,1 +1,56 @@
-A professional health checkup report for Ratnesh Kumar Yadav, diagnosed with Typhoid Fever, including all specified sections in the user prompt, formatted as a .docx file suitable for medical use.
+Health Checkup Report
+
+Patient Information:
+-------------------------
+Name: Ratnesh Kumar Yadav  
+Age: 32  
+Gender: Male  
+Date of Report: 09-Sept-2025  
+
+Doctor: Dr. S.K. Rajan
+
+Pathology Laboratory Details:
+-------------------------
+Lab Name: Dr. Lal PathLabs  
+Address: Niralnager Daliganj, Lucknow, Uttar Pradesh, India
+
+Clinical History & Symptoms:
+-------------------------
+- High-grade fever (up to 104°F)
+- Persistent headache
+- Fatigue and weakness
+- Abdominal discomfort
+- Constipation
+- Mild skin rash (rose spots) observed
+
+Laboratory Test Results:
+-------------------------
+Test: Widal Test
+
+| Antigen | Result (titer) | Normal Reference |
+|---------|:--------------:|:----------------:|
+| O       | 1:160          | <1:80            |
+| H       | 1:320          | <1:80            |
+
+Interpretation:
+-------------------------
+The Widal test results show significant elevation in both ‘O’ (1:160) and ‘H’ (1:320) antigen titers. These findings are consistent with an acute infection of Salmonella enterica serovar Typhi.
+
+Diagnosis:
+-------------------------
+Confirmed: Typhoid Fever
+
+Recommendations:
+-------------------------
+- Start prescribed antibiotics immediately (as per physician’s advice)
+- Maintain adequate hydration and take oral rehydration salts if necessary
+- Eat light, easily digestible food
+- Take complete bed rest until fever subsides
+- Monitor temperature regularly and report any worsening symptoms
+- Avoid self-medication
+
+Disclaimer:
+-------------------------
+This report is intended only for informational and diagnostic purposes. All findings are based on tests conducted at the specified laboratory and must be interpreted by a qualified physician. The laboratory and consulting doctor are not responsible for self-medication or misuse of this report.
+
+(End of Report)
